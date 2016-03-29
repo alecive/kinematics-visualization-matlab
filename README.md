@@ -5,7 +5,7 @@ This is a legacy repo with the scripts I did to visualize the iCub upperbody kin
 To see what the software is capable of, simply run (in Matlab) the following:
 
 ```
-FwdKiniCubUpperBody(1,1,1,1,1)
+iCubUpperBodyFwdKin(1,1,1,1,1)
 ```
 
 The result will be something like this, with the torso, arms and hands of the iCub humanoid robot.
